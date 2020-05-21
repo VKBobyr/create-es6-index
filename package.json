@@ -1,0 +1,17 @@
+{
+  "name": "create-es6-index",
+  "version": "1.1.4",
+  "description": "Creates an ES6-style index.js export file with all *.js siblings, children, grandchildren, grand-children, grand-grand-children, etc...",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Volodymyr Bobyr",
+  "license": "MIT",
+  "dependencies": {
+    "read-dir-deep": "^7.0.1"
+  },
+  "bin": {
+    "create-es6-index": "./cli.js"
+  },
+  "devDependencies": {},
+  "keywords": ["es6", "index", "recursive", "exports", "default"]
+}

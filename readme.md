@@ -18,7 +18,7 @@ For the following file structure:
 ```
 
 The command:
-`create-es6-index target_folder`
+`create-es6-index target_folder/`
 
 Will generate the following `index.js` in `target_folder/`:
 ```js
